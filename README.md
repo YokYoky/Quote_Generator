@@ -9,3 +9,10 @@ Generate random quotes
 3) use random to randomize the array
 
 4) only print 1 index of array
+
+
+additional ideas for future development
+
+1) use sql to store quotes
+
+2) (GUI) javafx or swing
