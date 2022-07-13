@@ -1,4 +1,5 @@
 # Quote_Generator
+The reason i made this is to motivate myself.
 
 Generate random quotes
 
