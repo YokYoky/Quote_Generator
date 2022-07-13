@@ -2,7 +2,7 @@
 
 Generate random quotes
 
-!) let user input any key except enter(must not be empty)
+1) let user input any key except enter(must not be empty)
 
 2) array to store quotes (sql for future development)
 
