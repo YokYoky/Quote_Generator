@@ -14,6 +14,6 @@ Generate random quotes
 
 additional ideas for future development
 
-1) use sql to store quotes
+1) use quotes api
 
 2) (GUI) javafx or swing
